@@ -1,0 +1,38 @@
+button.start {
+	color:black;
+	background:#gray;
+	border: 0px;
+	padding: 10px 10px;
+	text-align: center;
+	text-decoration: none;
+	display: block;
+	font-size: 12px;
+	margin: 0 auto;
+	cursor: pointer;  
+}
+
+button.option {
+	height: 40px; 
+    width: 40px; 
+	color:white;
+	border:3px orange double;
+	padding: 10px 10px;
+	text-align: center;
+	text-decoration: none;
+	margin: 0 auto;
+	margin-right:10px;
+	cursor: pointer;  
+}
+
+
+body.popup{
+	width:120px; 
+	height:100px;
+}
+
+div.popup {
+}
+
+div {
+	display:inline;
+}
